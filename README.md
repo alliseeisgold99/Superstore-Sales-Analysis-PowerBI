@@ -7,14 +7,6 @@
 * **مجموع سود (Total Profit):** ۲۸۶.۴ هزار دلار
 * **تعداد اقلام فروخته شده (Total Quantity):** ۳۸ هزار عدد
 * **میانگین تخفیف (Average Discount):** ۱۶٪
-
-## 🛠️ ابزارها و مهارت‌های استفاده شده
-* **ابزار اصلی:** Power BI Desktop
-* **آماده‌سازی داده‌ها:** Power Query (ETL, Data Cleaning)
-* **مدل‌‌سازی داده:** Star Schema
-* **زبان فرمول‌نویسی:** DAX (Data Analysis Expressions) برای خلق مژرها و محاسبات Time Intelligence
-* **مصورسازی پیشرفته:** استفاده از ابزارهای هوش مصنوعی مانند Decomposition Tree و نقشه (Map)
-
 ---
 
 ## 📂 ساختار داشبورد
